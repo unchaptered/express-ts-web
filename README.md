@@ -29,3 +29,5 @@ Singleton Application
 ### References
 
 1. PostgreSQL 연결 : https://jojoldu.tistory.com/634
+2. pg connection docs : https://node-postgres.com/features/connecting
+3. mongoose docs : https://mongoosejs.com/docs/api.html
