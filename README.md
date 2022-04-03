@@ -25,3 +25,7 @@ Singleton Application
 1. Singleton Pattern
 2. Service Pattern
 3. Repository Pattern (un-used)
+
+### References
+
+1. PostgreSQL 연결 : https://jojoldu.tistory.com/634

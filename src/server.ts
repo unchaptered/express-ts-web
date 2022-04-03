@@ -50,6 +50,8 @@ class Server {
 }
 
 export default ():void => {
+
     const server:Server = new Server();
     server.listen();
+
 }
